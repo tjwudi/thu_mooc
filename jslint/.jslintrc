@@ -1,0 +1,7 @@
+{
+  "predef": [
+    "b"
+  ],
+  "node": true,
+  "indent": 4
+}
